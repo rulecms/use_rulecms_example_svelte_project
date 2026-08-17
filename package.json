@@ -1,0 +1,32 @@
+{
+  "name": "use-rulecms-example-svelte-project",
+  "version": "0.0.0",
+  "private": false,
+  "description": "Demonstration Svelte app showing how to integrate RuleCMS widgets using @rulecms/widget-svelte",
+  "keywords": [
+    "rulecms",
+    "svelte",
+    "widgets",
+    "cms",
+    "demo"
+  ],
+  "author": "RuleCMS Team",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@rulecms/source-components-svelte": "^0.1.0",
+    "@rulecms/widget-svelte": "^0.1.0",
+    "svelte": "^5.16.0"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^5.0.3",
+    "typescript": "~5.7.2",
+    "vite": "^6.0.7"
+  }
+}
