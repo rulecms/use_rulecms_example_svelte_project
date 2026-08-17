@@ -20,8 +20,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@rulecms/source-components-svelte": "^0.1.0",
-    "@rulecms/widget-svelte": "^0.1.0",
+    "@rulecms/source-components-svelte": "^0.2.0",
+    "@rulecms/widget-svelte": "^0.2.0",
     "svelte": "^5.16.0"
   },
   "devDependencies": {
