@@ -4,7 +4,7 @@ A demonstration of how to integrate **RuleCMS widgets** into a Svelte applicatio
 
 ## Live Demo
 
-**[View the live demo](https://userulecmsexamplesvelteproject.vercel.app)**
+**[View the live demo](https://use-rulecms-example-svelte-project.vercel.app)**
 
 Experience the RuleCMS Svelte widget integration without running the app locally.
 
@@ -35,7 +35,7 @@ npm install
 npm start
 ```
 
-The app is at [http://localhost:5173](http://localhost:5173). Demo credentials in `src/rulecms-config.ts` are enough to render the widget without extra setup. Or skip local setup and use the [live demo](https://userulecmsexamplesvelteproject.vercel.app).
+The app is at [http://localhost:5173](http://localhost:5173). Demo credentials in `src/rulecms-config.ts` are enough to render the widget without extra setup. Or skip local setup and use the [live demo](https://use-rulecms-example-svelte-project.vercel.app).
 
 ## Adding RuleCMS widgets to your own Svelte app
 
