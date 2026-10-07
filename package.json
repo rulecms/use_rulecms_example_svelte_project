@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@rulecms/source-components-svelte": "^0.5.1",
-    "@rulecms/widget-svelte": "^0.8.1",
+    "@rulecms/widget-svelte": "^0.8.2",
     "svelte": "^5.16.0"
   },
   "devDependencies": {
